@@ -1,0 +1,26 @@
+Kontrollspørsmål	
+
+0)
+Javascript kan og skal brukes som programeringsspråk for pc, smarttelefon, nettbrett, servere og web.
+Javascript kan skrive til HTML output,endre innhold i HTML dokumentet og endre HTML stiler.
+
+1) 
+CSS-ID vs Class: 
+ID knytter du til et element som skal være unikt fra alle andre.
+Class knytter du til flere elementer som skal være like.
+
+2) 
+Deloppgave 0: Brukervennlig om du har flere hundre elementer, bedre overblikk på siden, lett å skille ved hjelp av farger.
+
+Deloppgave 1: Brukervennlig om du har færre elementer. En drop-down meny er ikke anbefalt å bruke med over 100 elementer. Vanskelig å skille fra hverandre, kan fort velge feil om det blir for mange.
+
+3)
+De har sortet innholdet etter bokstavfelt hvor de går fra a-z
+Innholdet er sortert i Class ikke ID.
+
+4) 
+Hovedforskjellen mellom <div> og <span> er at <span> tagen ikke endrer noe selv, men må gjøre det utenfra.
+<div> elementet inkluderer en paragraf mens <span> kun sier ifra til browseren at den skal bruke design reglene på det som er inni <span>
+
+5)
+Lite brukervennlig om du har mange elementer.
