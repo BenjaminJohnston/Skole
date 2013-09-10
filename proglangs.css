@@ -1,0 +1,40 @@
+.container {
+margin-left:auto;
+margin-right:auto;
+width:300px;
+ }
+
+h1
+{
+text-align:center;
+color: Blue;
+font-size: 12pt;
+}
+
+h2
+{
+text-align:center;
+color: green;
+font-size: 12pt;
+}
+
+h3
+{
+text-align:center;
+color: cyan;
+font-size: 12pt;
+}
+
+h4
+{
+text-align:center;
+color: purple	;
+font-size: 12pt;
+}
+
+h5
+{
+text-align:center;
+color: red;
+font-size: 12pt;
+}
